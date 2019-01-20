@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+    <item
+        android:id="@+id/menu_add_vasooli"
+        android:icon="@drawable/ic_add_black_24dp"
+        app:showAsAction="ifRoom"
+        android:title="Vasooli"
+        />
+
+    <item
+        android:id="@+id/menu_setting"
+        app:showAsAction="ifRoom"
+        android:icon="@drawable/ic_settings_black_24dp"
+        android:title="Vasooli"
+
+        />
+
+
+</menu>

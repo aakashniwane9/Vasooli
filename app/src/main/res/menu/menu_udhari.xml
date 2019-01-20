@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+
+        android:id="@+id/menu_add_udhari"
+        android:title="Udhari"
+        app:showAsAction="ifRoom"
+        android:icon="@drawable/ic_add_black_24dp"
+        />
+
+    <item
+        android:id="@+id/menu_setting"
+        android:title="Udhari"
+        app:showAsAction="ifRoom"
+        android:icon="@drawable/ic_settings_black_24dp"
+        />
+
+</menu>
